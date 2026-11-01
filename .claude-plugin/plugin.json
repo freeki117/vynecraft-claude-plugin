@@ -1,0 +1,13 @@
+{
+  "name": "vynecraft",
+  "displayName": "VyneCraft",
+  "version": "1.0.0",
+  "description": "VyneCraft inside Claude Code: tear down any TikTok or YouTube video, find the outliers in your niche, pull the hooks that worked, and remix proven posts for your brand. 10 skills, /teardown first.",
+  "author": {
+    "name": "VyneCraft",
+    "email": "support@vynecraft.com",
+    "url": "https://vynecraft.com"
+  },
+  "homepage": "https://vynecraft.com/claude",
+  "keywords": ["social media", "short-form video", "tiktok", "youtube", "teardown", "hooks", "content strategy"]
+}

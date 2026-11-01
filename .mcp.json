@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "vynecraft": {
+      "type": "http",
+      "url": "https://app.vynecraft.com/api/mcp",
+      "headers": {
+        "Authorization": "Bearer ${VYNECRAFT_API_KEY}"
+      }
+    }
+  }
+}

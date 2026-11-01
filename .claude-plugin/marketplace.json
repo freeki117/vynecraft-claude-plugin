@@ -1,0 +1,16 @@
+{
+  "name": "vynecraft",
+  "description": "VyneCraft's plugin for Claude Code: short-form video research, teardowns and remixes from your VyneCraft workspace.",
+  "owner": {
+    "name": "VyneCraft",
+    "email": "support@vynecraft.com",
+    "url": "https://vynecraft.com"
+  },
+  "plugins": [
+    {
+      "name": "vynecraft",
+      "source": "./",
+      "description": "10 skills on your VyneCraft workspace: /teardown, /viral, /video, /transcript, /viral-hooks, /content-audit, /brand, /remix, /remixes, /workspace."
+    }
+  ]
+}
