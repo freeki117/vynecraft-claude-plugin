@@ -9,5 +9,6 @@
     "url": "https://vynecraft.com"
   },
   "homepage": "https://vynecraft.com/claude",
+  "icon": "./logo.png",
   "keywords": ["social media", "short-form video", "tiktok", "youtube", "teardown", "hooks", "content strategy"]
 }
