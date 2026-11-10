@@ -1,6 +1,6 @@
 ---
 name: viral-hooks
-description: "Pull the opening hooks that worked, word for word, from VyneCraft's proven videos in a niche, grouped into reusable templates with their numbers, or the hooks the user saved. Use when the user asks for hooks, openers, or how the best videos in a niche start."
+description: "Pull the opening hooks that worked from VyneCraft's proven videos in a niche, grouped into patterns with their numbers, or the hooks the user saved. Use when the user asks for hooks, openers, or how the best videos in a niche start."
 argument-hint: "[niche or topic] [saved]"
 allowed-tools: mcp__plugin_vynecraft_vynecraft__list_hooks mcp__plugin_vynecraft_vynecraft__get_brand_profile mcp__vynecraft__list_hooks mcp__vynecraft__get_brand_profile
 ---

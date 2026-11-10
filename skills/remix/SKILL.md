@@ -1,6 +1,6 @@
 ---
 name: remix
-description: "Remix a proven catalog post (a slideshow or wall of text) into a post for the user's brand with VyneCraft: the proven words stay, the blanks are written for the brand, every claim is checked. Use when the user wants to turn a proven post into their own."
+description: "Remix a proven catalog post (a slideshow or wall of text) into a post for the user's brand with VyneCraft: the blanks are written for the brand and every claim is checked. Use when the user wants to turn a proven post into their own."
 argument-hint: "<catalog ref> [account]"
 allowed-tools: mcp__plugin_vynecraft_vynecraft__get_video mcp__plugin_vynecraft_vynecraft__get_remix mcp__plugin_vynecraft_vynecraft__get_workspace mcp__vynecraft__get_video mcp__vynecraft__get_remix mcp__vynecraft__get_workspace
 ---

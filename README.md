@@ -10,11 +10,11 @@ Setup guide with screenshots: https://vynecraft.com/claude
 
 | Type | What it does |
 |---|---|
-| `/teardown <link>` | Tears down a TikTok or YouTube video (Shorts and long videos): the numbers, the hook word for word, why it worked, the structure. Paste several links to compare them. |
+| `/teardown <link>` | Tears down a TikTok or YouTube video (Shorts and long videos): the numbers, the hook, why it worked, the structure. Paste several links to compare them. |
 | `/viral [niche]` | The outlier videos in a niche: the ones that beat their creator's usual views, grouped into patterns. |
 | `/video <ref>` | One video in full: numbers, outlier, hook, the deep analysis, top comments. |
 | `/transcript <ref>` | Every spoken word of a video you tore down. |
-| `/viral-hooks [niche]` | The opening hooks that worked, word for word, as templates you can reuse. |
+| `/viral-hooks [niche]` | The opening hooks that worked in a niche, grouped into patterns with their numbers. |
 | `/content-audit [days]` | How your workspace's videos did, what won, what drained views, and 7 ideas for next. |
 | `/brand` | Your brand profile: angles, personas, voice do's and don'ts. |
 | `/remix <ref>` | Turns a proven slideshow or wall of text into a post for your brand. |

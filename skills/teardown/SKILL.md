@@ -1,6 +1,6 @@
 ---
 name: teardown
-description: "Tear down any TikTok or YouTube video link with VyneCraft, Shorts and long videos too: its real numbers, the hook word for word, why it worked, the structure, format and call to action. Use when the user pastes a video link and asks to tear it down, analyze it, or explain why it went viral. Takes one link or several."
+description: "Tear down any TikTok or YouTube video link with VyneCraft, Shorts and long videos too: its real numbers, the hook, why it worked, the structure, format and call to action. Use when the user pastes a video link and asks to tear it down, analyze it, or explain why it went viral. Takes one link or several."
 argument-hint: "<video link> [more links]"
 allowed-tools: mcp__plugin_vynecraft_vynecraft__teardown_video mcp__plugin_vynecraft_vynecraft__get_video mcp__plugin_vynecraft_vynecraft__get_transcript mcp__vynecraft__teardown_video mcp__vynecraft__get_video mcp__vynecraft__get_transcript
 ---
@@ -35,7 +35,7 @@ Links: $ARGUMENTS
    - **Why it worked:** 2-3 sentences from `hook.why_it_works`, `summary` and `angle`. No filler.
    - **Structure:** `storytelling_structure.name`, then the sections in order with their start times.
    - **Format and layout:** `format.name`, `visual_layout.name`. **Call to action:** `call_to_action`.
-   - **Steal this:** one or two lines on how the user could use the same structure for their own topic (copy the
+   - **Use this:** one or two lines on how the user could use the same structure for their own topic (copy the
      structure, never the video).
    - The `studio_url` link.
 
